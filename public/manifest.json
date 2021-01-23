@@ -1,0 +1,8 @@
+{
+  "short_name": "Break Timer",
+  "name": "FCC 25 + 5 Clock/Timer",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
